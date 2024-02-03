@@ -1,0 +1,39 @@
+.primary_button {
+  background-color: #000000;
+  color: white;
+  min-width: 220px;
+  height: 44px;
+  margin: 2px;
+  border-radius: 5px;
+  padding: 10px 18px;
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 15px;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.outline_btn {
+  background-color: #ffffff;
+  color: #000000;
+  min-width: 472px;
+  height: 44px;
+  margin: 2px;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px 18px;
+  gap: 17px;
+  display: flex;
+  align-items: center;
+
+  font-size: 15px;
+  justify-content: center;
+  cursor: pointer;
+}
+.contactform {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
